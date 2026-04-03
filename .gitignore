@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+
+# Anaconda environment
+anaconda_projects/
+
+# Scratch work
+Scratch.ipynb
